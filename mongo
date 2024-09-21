@@ -1,0 +1,2 @@
+MONGODB works on collections of documents like json,xml.
+used to store documents inside the documents.(nested documents)
