@@ -1,2 +1,4 @@
 MONGODB works on collections of documents like json,xml.
 used to store documents inside the documents.(nested documents)
+multipe document file must be in "[ ]" in this brackets and the documents must be "{ }" inside this brackets.
+commands: use database_name
